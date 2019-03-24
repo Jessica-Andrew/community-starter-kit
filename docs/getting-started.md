@@ -35,4 +35,7 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+- Configuration for welcome - https://github.com/behaviorbot/welcome
+- Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+- It is recommended to include as many gifs and emojis as possible!
+
