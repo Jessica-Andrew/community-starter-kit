@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Add and Review Pull Requests and Issues
 
 ## What it does
+- Add and review Pull Request
+- Comment on Issues
 
-FEATURES PLACEHOLDER
 
 ## Getting started
 
